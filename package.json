@@ -1,0 +1,14 @@
+{
+  "name": "backstop-hover-test",
+  "version": "1.0.0",
+  "description": "Testing hover feature from backstopjs.",
+  "main": "index.js",
+  "author": "RedHatter",
+  "license": "GPL3.0",
+  "scripts": {
+    "start": "backstop test --config backstop.config.js"
+  },
+  "dependencies": {
+    "backstopjs": "^3.8.5"
+  }
+}
